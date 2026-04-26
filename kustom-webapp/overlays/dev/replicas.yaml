@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-H  name: mywebapp
+  name: mywebapp
 spec:
   replicas: 3
